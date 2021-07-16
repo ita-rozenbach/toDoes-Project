@@ -1,0 +1,11 @@
+#ToDo{
+    
+    text-align: right;
+}
+.done{
+    background-color: #4fa74636;
+    border-radius: 0.3rem;
+}
+.border-secondary{
+    border-color: #c5c5c5;
+}
